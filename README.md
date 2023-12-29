@@ -2,7 +2,7 @@
 
 I'm a trans UK-based Software Engineer.
 
-- 🌱 I'm currently making things with Rails.
+- 🌱 Making things with Ruby.
 - 🕹️ I release short f2p games over on [itch.io](https://alexpritc.itch.io/).
 - 🔗 I'm [@alexpritc](https://alexpritc.carrd.co/) on most social media. Say hi!
 
