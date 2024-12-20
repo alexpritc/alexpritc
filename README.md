@@ -1,6 +1,6 @@
 ### Hi, I'm Alex!🧃🐀 
 
-I'm a trans UK-based Software Engineer.
+I'm a trans UK-based Senior Software Engineer.
 
 - 🌱 Making things with Ruby.
 - 🕹️ I release short f2p games over on [itch.io](https://alexpritc.itch.io/).
